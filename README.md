@@ -679,7 +679,7 @@ Version 2.30 (released on 16.10.05)
 Version 2.20 (released on 16.09.08)
   * Support for Modern Robotics Compass Sensor.
   * Support for Modern Robotics Range Sensor.
-  * Revise device names for Pushbot templates to match the names used in Pushbot guide.
+  * Revise device names for Pushbot templates to match the names used in Pushbot guide. 
   * Fixed bug so that IrSeekerSensorV3 device is accessible as IrSeekerSensor in hardwareMap.
   * Modified computer vision code to require an individual Vuforia license (per legal requirement from PTC).
   * Minor fixes.
